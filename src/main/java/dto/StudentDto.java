@@ -1,4 +1,4 @@
-package com.tecsup.lab3.dto;
+package dto;
 
 public class StudentDto {
 
